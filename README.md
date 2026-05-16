@@ -33,6 +33,10 @@ Resolve Unity project setting or package manifest conflicts deliberately. VLiveK
 
 `Packages/packages-lock.json` is intentionally not committed in the template. Open the project once in the target Unity version and commit the regenerated lock file in the derived project if you want exact dependency pinning there.
 
+## MCP Setup
+
+Unity MCP is included through `com.unity.ai.assistant`. Open the project once in Unity, then follow `Docs/MCP_SETUP.md` or use `Tools/MCP/Configure-CodexUnityMcp.ps1` to register the Unity relay with Codex CLI.
+
 ## Included submodules
 
 - `Packages/VLiveKit`

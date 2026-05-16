@@ -30,6 +30,7 @@
                          "com.toshi.vlivekit.testassetscontainer":  "file:VLiveKit_TestAssetsContainer/Assets/toshi.VLiveKit/TestAssetsContainer",
                          "com.toshi.vlivekit.thirdpartyutilities":  "file:VLiveKit_ThirdPartyUtilities/Assets/toshi.VLiveKit/ThirdPartyUtilities",
                          "com.toshi.vlivekit.videorack":  "file:VLiveKit_VideoRack/Assets/toshi.VLiveKit/VideoRack",
+                         "com.unity.ai.assistant":  "2.6.0-pre.1",
                          "com.unity.burst":  "1.8.29",
                          "com.unity.collections":  "2.2.1",
                          "com.unity.feature.development":  "1.0.2",
