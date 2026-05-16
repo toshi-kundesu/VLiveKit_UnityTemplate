@@ -1,0 +1,39 @@
+[submodule "Packages/VLiveKit_LiveToon"]
+	path = Packages/VLiveKit_LiveToon
+	url = https://github.com/toshi-kundesu/VLiveKit_LiveToon.git
+[submodule "Packages/VLiveKit_camera"]
+	path = Packages/VLiveKit_camera
+	url = https://github.com/toshi-kundesu/VLiveKit_camera.git
+[submodule "Packages/VLiveKit_LiveLensFilters"]
+	path = Packages/VLiveKit_LiveLensFilters
+	url = https://github.com/toshi-kundesu/VLiveKit_LiveLensFilters.git
+[submodule "Packages/VLiveKit_LEDVision"]
+	path = Packages/VLiveKit_LEDVision
+	url = https://github.com/toshi-kundesu/VLiveKit_LEDVision.git
+[submodule "Packages/Memo"]
+	path = Packages/Memo
+	url = https://github.com/toshi-kundesu/Memo.git
+[submodule "Packages/VLiveKit_TestAssetsContainer"]
+	path = Packages/VLiveKit_TestAssetsContainer
+	url = https://github.com/toshi-kundesu/VLiveKit_TestAssetsContainer.git
+[submodule "Packages/VLiveKit_ArtNetLink"]
+	path = Packages/VLiveKit_ArtNetLink
+	url = https://github.com/toshi-kundesu/VLiveKit_ArtNetLink.git
+[submodule "Packages/VLiveKit_PerformerAct"]
+	path = Packages/VLiveKit_PerformerAct
+	url = https://github.com/toshi-kundesu/VLiveKit_PerformerAct.git
+[submodule "Packages/VLiveKit_StageBuilder"]
+	path = Packages/VLiveKit_StageBuilder
+	url = https://github.com/toshi-kundesu/VLiveKit_StageBuilder.git
+[submodule "Packages/VLiveKit_ThirdPartyUtilities"]
+	path = Packages/VLiveKit_ThirdPartyUtilities
+	url = https://github.com/toshi-kundesu/VLiveKit_ThirdPartyUtilities.git
+[submodule "Packages/VLiveKit_StageEffect"]
+	path = Packages/VLiveKit_StageEffect
+	url = https://github.com/toshi-kundesu/VLiveKit_StageEffect.git
+[submodule "Packages/VLiveKit_VideoRack"]
+	path = Packages/VLiveKit_VideoRack
+	url = https://github.com/toshi-kundesu/VLiveKit_VideoRack.git
+[submodule "Packages/VLiveKit"]
+	path = Packages/VLiveKit
+	url = https://github.com/toshi-kundesu/VLiveKit.git
