@@ -98,3 +98,26 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Private character models belong in VLiveKit_ThirdPartyUtilities.
+/.codex_artifacts/
+/Assets/YYB Hatsune Miku_NT/
+/Assets/YYB Hatsune Miku_NT.meta
+/Assets/Zenzero/
+/Assets/Zenzero.meta
+/Assets/REM's SEKAI Style Hatsune Miku VS - ver.1.3/
+/Assets/REM's SEKAI Style Hatsune Miku VS - ver.1.3.meta
+/Assets/Tda式初音ミクV4X_Ver1.00/
+/Assets/Tda式初音ミクV4X_Ver1.00.meta
+*.vrm
+*.vrm.meta
+*.pmx
+*.pmx.meta
+*.pmd
+*.pmd.meta
+*.vmd
+*.vmd.meta
+
+# Local MeshSync extraction output.
+/Assets/MeshSyncAssets/
+/Assets/MeshSyncAssets.meta
