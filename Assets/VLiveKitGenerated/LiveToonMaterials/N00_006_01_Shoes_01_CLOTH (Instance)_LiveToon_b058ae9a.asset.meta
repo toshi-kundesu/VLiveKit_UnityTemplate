@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ad714d23fb84ed64b9a3e1cdcb455afc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 'VLiveKit.LiveToon.SourceMaterialPath=Packages/com.toshi.vlivekit.livetoon/VRM/AvatarSample_C/AvatarSample_C.Materials/N00_006_01_Shoes_01_CLOTH
+    (Instance).asset
+
+    VLiveKit.LiveToon.SourceMaterialGlobalObjectId=GlobalObjectId_V1-3-b058ae9a1da6c5f4a99d27f8920afc1c-2100000-0
+
+    VLiveKit.LiveToon.SourceMaterialName=N00_006_01_Shoes_01_CLOTH
+    (Instance)
+
+    VLiveKit.LiveToon.SourceMaterialShaderName=VRM/MToon
+
+    VLiveKit.LiveToon.SourceMaterialRenderQueue=2450'
+  assetBundleName: 
+  assetBundleVariant: 

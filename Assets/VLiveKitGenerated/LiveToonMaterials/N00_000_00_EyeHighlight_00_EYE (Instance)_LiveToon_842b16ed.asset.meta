@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dcc5e4d3eaf3226458d57a2027bfbd45
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 'VLiveKit.LiveToon.SourceMaterialPath=Packages/com.toshi.vlivekit.livetoon/VRM/AvatarSample_B/AvatarSample_B.Materials/N00_000_00_EyeHighlight_00_EYE
+    (Instance).asset
+
+    VLiveKit.LiveToon.SourceMaterialGlobalObjectId=GlobalObjectId_V1-3-842b16ed949d7b04093a16f395ad43c4-2100000-0
+
+    VLiveKit.LiveToon.SourceMaterialName=N00_000_00_EyeHighlight_00_EYE
+    (Instance)
+
+    VLiveKit.LiveToon.SourceMaterialShaderName=VRM/MToon
+
+    VLiveKit.LiveToon.SourceMaterialRenderQueue=3500'
+  assetBundleName: 
+  assetBundleVariant: 

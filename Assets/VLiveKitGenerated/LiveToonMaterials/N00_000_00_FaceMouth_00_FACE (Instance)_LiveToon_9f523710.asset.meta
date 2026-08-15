@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ab35e14b2dcb965409a143550b40b507
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 'VLiveKit.LiveToon.SourceMaterialPath=Packages/com.toshi.vlivekit.livetoon/VRM/AvatarSample_B/AvatarSample_B.Materials/N00_000_00_FaceMouth_00_FACE
+    (Instance).asset
+
+    VLiveKit.LiveToon.SourceMaterialGlobalObjectId=GlobalObjectId_V1-3-9f5237107f25b244ba4dca8be2cd5447-2100000-0
+
+    VLiveKit.LiveToon.SourceMaterialName=N00_000_00_FaceMouth_00_FACE
+    (Instance)
+
+    VLiveKit.LiveToon.SourceMaterialShaderName=VRM/MToon
+
+    VLiveKit.LiveToon.SourceMaterialRenderQueue=2450'
+  assetBundleName: 
+  assetBundleVariant: 

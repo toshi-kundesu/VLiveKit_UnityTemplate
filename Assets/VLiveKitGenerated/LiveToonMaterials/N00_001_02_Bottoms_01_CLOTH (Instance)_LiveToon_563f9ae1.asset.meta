@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 88071fb492f4fda499c1e72f52284e32
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 'VLiveKit.LiveToon.SourceMaterialPath=Packages/com.toshi.vlivekit.livetoon/VRM/AvatarSample_A/AvatarSample_A.Materials/N00_001_02_Bottoms_01_CLOTH
+    (Instance).asset
+
+    VLiveKit.LiveToon.SourceMaterialGlobalObjectId=GlobalObjectId_V1-3-563f9ae180590f54998f01c6ec07ac75-2100000-0
+
+    VLiveKit.LiveToon.SourceMaterialName=N00_001_02_Bottoms_01_CLOTH
+    (Instance)
+
+    VLiveKit.LiveToon.SourceMaterialShaderName=VRM/MToon
+
+    VLiveKit.LiveToon.SourceMaterialRenderQueue=2450'
+  assetBundleName: 
+  assetBundleVariant: 

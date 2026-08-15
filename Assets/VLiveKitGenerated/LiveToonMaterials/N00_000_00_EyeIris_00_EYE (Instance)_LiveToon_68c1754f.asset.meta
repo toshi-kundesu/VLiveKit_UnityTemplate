@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: da311bf4eee6d2f4e83cf44c6b59efb7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 'VLiveKit.LiveToon.SourceMaterialPath=Packages/com.toshi.vlivekit.livetoon/VRM/AvatarSample_B/AvatarSample_B.Materials/N00_000_00_EyeIris_00_EYE
+    (Instance).asset
+
+    VLiveKit.LiveToon.SourceMaterialGlobalObjectId=GlobalObjectId_V1-3-68c1754f4d4dace46a0427f0e1774773-2100000-0
+
+    VLiveKit.LiveToon.SourceMaterialName=N00_000_00_EyeIris_00_EYE
+    (Instance)
+
+    VLiveKit.LiveToon.SourceMaterialShaderName=VRM/MToon
+
+    VLiveKit.LiveToon.SourceMaterialRenderQueue=3000'
+  assetBundleName: 
+  assetBundleVariant: 
