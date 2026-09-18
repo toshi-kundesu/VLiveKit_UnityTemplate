@@ -19,6 +19,15 @@ with long-path support disabled. Keep the project root reasonably short, such as
 `E:\VLiveKit\_UnityTemplate`, since its length counts toward Windows' path limit
 and other submodules have their own directory layouts.
 
+## Sample guide
+
+The VLiveKit sample guide opens when the project starts. You can reopen it from
+`toshi/VLiveKit/Samples` and disable automatic opening for this project in the
+window. The camera-unit and LED/LTCGI scenes are featured entry points. Scene
+changes ask whether to save your current work first. The searchable package
+catalog also lists other VLiveKit scenes, including unimported samples and
+scenes outside each submodule's exported package, with links to their locations.
+
 ## Pull template updates into an existing project
 
 Keep the original template repo as a remote named `template`:
