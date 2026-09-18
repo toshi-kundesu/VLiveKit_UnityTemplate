@@ -12,12 +12,12 @@ git remote add origin <your-project-repository-url>
 git push -u origin main
 ```
 
-If `VLiveKit_TestAssetsContainer` fails to checkout on Windows because of long Unity sample paths, enable long paths for Git and update the submodules again:
-
-```powershell
-git config --global core.longpaths true
-git submodule update --init --recursive
-```
+The Unity samples in `VLiveKit_TestAssetsContainer` use shortened paths under
+`Unity/Demos` so a normal Windows clone does not need `core.longpaths=true`.
+The submodule's CI checks the tracked path budget and performs a Windows checkout
+with long-path support disabled. Keep the project root reasonably short, such as
+`E:\VLiveKit\_UnityTemplate`, since its length counts toward Windows' path limit
+and other submodules have their own directory layouts.
 
 ## Pull template updates into an existing project
 
