@@ -28,6 +28,13 @@ changes ask whether to save your current work first. The searchable package
 catalog also lists other VLiveKit scenes, including unimported samples and
 scenes outside each submodule's exported package, with links to their locations.
 
+Lens Filters test scenes use a dark stage with a lion sculpture, material spheres,
+and fixed exposure. Auto Cycle is enabled by default; select a filter from the
+on-screen list to pause on it, or resume cycling with the Auto Cycle button. The
+template registers the installed HDRP filters; after adding filters to another
+project, use `toshi/VLiveKit/LensFilters/Register Installed HDRP Filters` to add
+missing registrations without changing the existing filter order.
+
 ## Pull template updates into an existing project
 
 Keep the original template repo as a remote named `template`:
