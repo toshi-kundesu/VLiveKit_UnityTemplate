@@ -951,7 +951,7 @@ MonoBehaviour:
     m_Value: 2
   intensity:
     m_OverrideState: 1
-    m_Value: 0.35
+    m_Value: 0
   weights:
     m_OverrideState: 1
     m_Value: {x: 0.1, y: 0.2, z: 0.3, w: 0.4}
